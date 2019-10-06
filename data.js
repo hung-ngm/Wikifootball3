@@ -2,7 +2,7 @@ var dataBase = [
     {
         //Neymar
         id : 1,
-        avatar: './footballer_images/neymar.jpg',
+        avatar: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Bra-Cos_%281%29.jpg',
        
     
         //ability ..
@@ -33,7 +33,7 @@ var dataBase = [
     {
         //Messi
         id : 2,
-        avatar: './footballer_images/Messi.jpg',
+        avatar: 'https://specials-images.forbesimg.com/imageserve/5cfea7bb4c687b0008593c0a/416x416.jpg?background=000000&cropX1=1554&cropX2=2474&cropY1=240&cropY2=1159',
        
     
         //ability ..
@@ -63,7 +63,7 @@ var dataBase = [
     {
         //Ronaldo
         id : 3,
-        avatar: './footballer_images/ronaldo.jpg',
+        avatar: 'https://www.gannett-cdn.com/presto/2019/01/16/USAT/a1fd3347-8e04-41b4-b1eb-63222fc9df54-AFP_AFP_1C68G3.JPG?crop=2117,2183,x596,y217&width=540&height=&fit=bounds&auto=webp',
        
     
         //ability ..
@@ -93,7 +93,7 @@ var dataBase = [
     {
         //Hazard
         id : 4,
-        avatar: './footballer_images/edenhazard.jpg',
+        avatar: 'https://pbs.twimg.com/profile_images/1139279483649888265/ImkiaD3Y.jpg',
     
         //ability ..
         shooting: 8,
@@ -122,7 +122,7 @@ var dataBase = [
     {
         //Griezmann
         id : 5,
-        avatar: './footballer_images/griezmann.jpg',
+        avatar: 'https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/GettyImages-1161987821.jpg?itok=77jj8os7',
         
     
         //ability ..
@@ -152,7 +152,7 @@ var dataBase = [
     {
         //De Bruyne
         id : 6,
-        avatar: './footballer_images/debruyne.jpg',
+        avatar: 'https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Liverpool-boss-Jurgen-Klopp-handed-Kevin-De-Bruyne-suggestion-over-Trent-Alexander-Arnold-2091221.jpg?r=1570127361483',
     
         //ability ..
         shooting: 7,
@@ -181,7 +181,7 @@ var dataBase = [
     {
         //Salah
         id : 7,
-        avatar: './footballer_images/salh.jpg',
+        avatar: 'https://www.thesun.co.uk/wp-content/uploads/2019/07/NINTCHDBPICT000494452080-e1563554040446.jpg',
     
         //ability ..
         shooting: 9,
@@ -210,7 +210,7 @@ var dataBase = [
     {
         //Van Dijk
         id : 8,
-        avatar: './footballer_images/vandijk.jpg',
+        avatar: 'https://pbs.twimg.com/media/DwEKfgcXQAE_izW.jpg',
     
         //ability ..
         shooting: 6,
@@ -239,7 +239,7 @@ var dataBase = [
     {
         //Mbappe
         id : 9,
-        avatar: './footballer_images/mbappe.jpg',
+        avatar: 'https://specials-images.forbesimg.com/imageserve/5cfe85694c687b0008593562/416x416.jpg?background=000000&cropX1=19&cropX2=1756&cropY1=210&cropY2=1948',
     
         //ability ..
         shooting: 8,
@@ -268,7 +268,7 @@ var dataBase = [
         {
             //Pogba
             id : 10,
-            avatar: './footballer_images/pogba.jpg',
+            avatar: 'https://specials-images.forbesimg.com/imageserve/5cfe81e734a5c4000847f55a/416x416.jpg?background=000000&cropX1=320&cropX2=1540&cropY1=172&cropY2=1393',
         
             //ability ..
             shooting: 7,
@@ -297,7 +297,7 @@ var dataBase = [
         {
             //HarryKane
             id : 11,
-            avatar: "./footballer_images/kane.jpg",
+            avatar: "https://amp.businessinsider.com/images/5ccb4645021b4c241d7af064-750-562.jpg",
         
             //ability ..
             shooting: 9,
@@ -327,7 +327,7 @@ var dataBase = [
         {
             //Aguero
             id : 12,
-            avatar: './footballer_images/aguero.jpg',
+            avatar: 'https://www.thesun.co.uk/wp-content/uploads/2019/08/NINTCHDBPICT000517726097.jpg',
         
             //ability ..
             shooting: 10,
