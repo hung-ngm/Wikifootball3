@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-around;
     text-align: center;
-    width: 80%;
+    width: 82%;
     margin: 0px auto;
 }
 
@@ -21,7 +21,7 @@
 
 
 .footballer-item {
-    padding:10px;
+    padding:9px;
     
 }
 .background-color {
