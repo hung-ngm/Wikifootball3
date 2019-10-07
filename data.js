@@ -1,6 +1,6 @@
 var dataBase = [
     {
-        //Neyma
+        //Neymar
         id : 1,
         avatar: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Bra-Cos_%281%29.jpg',
        
