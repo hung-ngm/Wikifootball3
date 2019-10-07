@@ -63,7 +63,7 @@ var dataBase = [
     {
         //Ronaldo
         id : 3,
-        avatar: 'https://www.gannett-cdn.com/presto/2019/01/16/USAT/a1fd3347-8e04-41b4-b1eb-63222fc9df54-AFP_AFP_1C68G3.JPG?crop=2117,2183,x596,y217&width=540&height=&fit=bounds&auto=webp',
+        avatar: 'https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg',
        
     
         //ability ..
@@ -122,7 +122,7 @@ var dataBase = [
     {
         //Griezmann
         id : 5,
-        avatar: 'https://the18.com/sites/default/files/styles/featured_mobile__621x709_/public/feature-images/GettyImages-1161987821.jpg?itok=77jj8os7',
+        avatar: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/FRA-ARG_%2810%29.jpg',
         
     
         //ability ..
