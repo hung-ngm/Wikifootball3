@@ -2,7 +2,7 @@ var dataBase = [
     {
         //Neymar
         id : 1,
-        avatar: 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Bra-Cos_%281%29.jpg',
+        avatar: 'https://i.pinimg.com/originals/c5/8d/7c/c58d7cc94e9e2fb74fe1c67f2e8655a8.jpg',
        
     
         //ability ..
